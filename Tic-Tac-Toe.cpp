@@ -1,7 +1,7 @@
 #include <bits\stdc++.h>
-using namespace std;
 #include<conio.h>
 #include <windows.h>
+using namespace std;
 
 
 int typeWait = 10; 																		
@@ -188,3 +188,5 @@ int main(){
         cout << "Error !!";
     }
 }
+
+// Ahmed Hossam Khalil
