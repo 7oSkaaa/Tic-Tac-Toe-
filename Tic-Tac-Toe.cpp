@@ -3,7 +3,7 @@
 #include <windows.h>
 using namespace std;
 
-
+// hello my name is mina
 int typeWait = 10; 																		
 DWORD WINAPI typingThread(LPVOID lpParameter){
         char *msg = (char *)lpParameter;
